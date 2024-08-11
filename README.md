@@ -7,3 +7,4 @@
 - Lucide react: Ferramenta de icones 
 - Node.js
 - Sonner: plugin para apresentar mensagem e tela (Toaster).
+- [Tanstack](https://tanstack.com/query/latest) (react query) 
